@@ -95,5 +95,15 @@ Scheme
 			"font" "resource/fonts/KnucklesCrosses.ttf"
 			"name" "KnucklesCrosses"
 		}
+		"14"
+		{
+			"font"	"resource/fonts/CodeProBold.otf"
+			"name"	"Code-Pro-Bold"
+		}
+		"15"
+		{
+			"font"	"resource/fonts/CodeProLC.otf"
+			"name"	"Code-Pro-LC"
+		}
 	}
 }

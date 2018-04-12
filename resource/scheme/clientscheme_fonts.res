@@ -3277,7 +3277,27 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
-	///////////////...hud crosshairs//////////////
+		"aRegular20Outline"
+		{
+			"1"
+			{
+				"name"		"Code-Pro-LC"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"aRegular20"
+		{
+			"1"
+			{
+				"name"		"Code-Pro-LC"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	//////////////////////// BITMAP FONT FILES /////////////////////////////

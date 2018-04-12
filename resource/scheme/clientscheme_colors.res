@@ -12,6 +12,11 @@ Scheme
 		"CustomLightGreen"		"150 255 150 255"
 		"CustomTransparent"		"0 0 0 0"
 		
+		"Damage Numbers"		"255 255 0 255"		// Set in Advanced Options
+		"Healing Numbers"		"0 255 127 255"
+		
+		"ShadowBlack"			"7 7 7 255"
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
