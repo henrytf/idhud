@@ -84,4 +84,42 @@
 		"wide"					"500"
 		"tall"					"200"
 	}
+	
+	"KnucklesCrosshairDefault"
+	{
+		"controlName"					"CExLabel"
+		"fieldName"					"KnucklesCrosshairDefault"
+		"visible"					"0"
+		"enabled"					"1"
+		
+		"zpos"						"1"
+		"xpos"						"c-25"
+		"ypos"						"c-25"
+		"wide"						"50"
+		"tall"						"50"
+		
+		"font"						"size:26,outline:off"
+		"labelText"					"g"
+		"textAlignment"					"center"
+		"fgcolor"					"255 255 255 255"
+	}
+	
+	"KnucklesCrosshairCircle"
+	{
+		"controlName"					"CExLabel"
+		"fieldName"					"KnucklesCrosshairCircle"
+		"visible"					"1"
+		"enabled"					"1"
+		
+		"zpos"						"1"
+		"xpos"						"c-25"
+		"ypos"						"c-25"
+		"wide"						"50"
+		"tall"						"50"
+		
+		"font"						"size:24,outline:off"
+		"labelText"					"o"
+		"textAlignment"					"center"
+		"fgcolor"					"000 255 000 255"
+	}
 }
